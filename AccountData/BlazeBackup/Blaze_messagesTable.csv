@@ -1,0 +1,28 @@
+_id,body,markdown_body,partner_jid,was_me,read_state,uid,length,timestamp,bin_id,sys_msg,stat_msg,stat_user_jid,stat_special_visibility,req_read_reciept,content_id,app_id,message_retry_count,encryption_failure,render_instructions,friend_attr_id,server_sig,mentioned_contact_id,core_message_proto_bytes,is_latest_from_correspondent_in_bin,is_big_emoji,friend_made_jid,kin_tipped
+1,pong,,u3zooqd2ljqsvbepty6kmzj7gyfdxiwiwblz6p55akhqwqfnff2a_a@talk.kik.com,0,400,814c5493-a692-4ed0-b652-855c36ff114f,4,1647413251282,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+2,:|,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,0afc6a49-e6eb-4f79-8bc0-f0b65a946b4e,2,1647413294398,1100256136749_g@groups.kik.com,,,,,1,,,0,0,ChIIABACGgI6fCIINmIxZDAxNjQ=,,,,,0,1,,0
+3,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,da1da5b6-34d8-4f72-a84a-2ea1a32248a2,0,1647413294796,1100256136749_g@groups.kik.com,,,,,0,da1da5b6-34d8-4f72-a84a-2ea1a32248a2,com.kik.ext.stickers,0,0,,,,,,0,0,,0
+4,:*,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,53dac2d9-44c3-4a7a-baae-9e315156fc6f,2,1647413297947,1100256136749_g@groups.kik.com,,,,,1,,,0,0,ChIIABACGgI6KiIIMjBjZDk2N2M=,,,,,0,1,,0
+5,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,93f3b2b1-1158-4238-93a8-240ccd9ce247,0,1647413298377,1100256136749_g@groups.kik.com,,,,,0,93f3b2b1-1158-4238-93a8-240ccd9ce247,com.kik.ext.stickers,0,0,,,,,,0,0,,0
+6,Flex,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,c73b2893-4971-4d28-8be5-02f730a532a2,4,1647413307803,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+7,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,c3053da0-9c77-40a2-b450-cefb20026897,0,1647413308815,1100256136749_g@groups.kik.com,,,,,0,c3053da0-9c77-40a2-b450-cefb20026897,com.kik.cards,0,0,,,,,,0,0,,0
+8,Hows it going,,hqqd3vz6yopcfn42ij2gcfdnorzr7zck3mk5qk2rs7i26zwscuga_a@talk.kik.com,0,400,42399703-d305-4d05-b6ee-d28610468c70,13,1647413311856,1100254612374_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+9,Flex 2,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,b008caba-d9d2-49f2-af97-232299afeb33,6,1647413316102,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+10,Flex 1,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,52998d11-e093-4931-98f5-4a09802c7367,6,1647413322077,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+11,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,43401306-9814-48fb-8b64-f316d6306a5a,0,1647413323383,1100256136749_g@groups.kik.com,,,,,0,43401306-9814-48fb-8b64-f316d6306a5a,com.kik.cards,0,0,,,,,,0,0,,0
+12,Flex 3,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,e75802dc-a8f5-4467-a562-81bf517a78bf,6,1647413329662,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+13,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,5930ea95-2bd5-425d-944c-50ebf4fe7653,0,1647413333467,1100256136749_g@groups.kik.com,,,,,0,5930ea95-2bd5-425d-944c-50ebf4fe7653,com.kik.ext.gif,0,0,,,,,,0,0,,0
+14,Flex 4,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,572fb077-59f4-4df9-a8fb-a8b655322618,6,1647413348915,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+15,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,94cd7840-c916-4fc9-ba80-40897b72b921,0,1647413350534,1100256136749_g@groups.kik.com,,,,,0,94cd7840-c916-4fc9-ba80-40897b72b921,com.kik.cards,0,0,,,,,,0,0,,0
+16,Cute,,gwk4aevjpo2em2xpvophus7xhye2dg2wjeiqh7q4kng5kdy7ab4q_a@talk.kik.com,0,400,14e38021-a6f0-4eca-b10c-3d518a2c9dba,4,1647413429666,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+17,What's cute,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,78d8f53c-ead4-4e6e-a7b3-5e2bea05b0d1,11,1647413531173,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+18,Dj's underwear?,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,2399fccb-4418-4a33-a08c-de3534abaa34,15,1647413536614,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+19,Ping,,vtso2wy22do6kimuswyzplnbdtkovkbtpirqfs47rddh2acunrja_a@talk.kik.com,0,400,6a810d20-c38f-42dd-9742-85b49112902f,4,1647413605023,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+20,Hmm,,vtso2wy22do6kimuswyzplnbdtkovkbtpirqfs47rddh2acunrja_a@talk.kik.com,0,400,635a0888-8168-475e-979e-72f88fadff00,3,1647413607682,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+21,Fr,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,7f6f9232-73b2-4d27-83c4-df03af633ec2,2,1647413609625,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+22,Hella cute,,4hltgahnocyysfni55ny34xwmc3beldmp4xprbcdxr5m4trnuoxq_a@talk.kik.com,0,400,aff1a2f4-160f-44d8-882d-266d67c8f5b4,10,1647413615403,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+23,,,3lt3kk22mn3xtaj7tugpzw5i5dlwosqzcpa2p5jctxtiinr3yvfa_a@talk.kik.com,0,400,d4a0c912-2641-4b36-8596-046307ef76cb,0,1647413696037,1100256136749_g@groups.kik.com,,,,,0,d4a0c912-2641-4b36-8596-046307ef76cb,com.kik.ext.gif,0,0,,,,,,0,0,,0
+24,Damn,,vtso2wy22do6kimuswyzplnbdtkovkbtpirqfs47rddh2acunrja_a@talk.kik.com,0,400,53547555-4429-46d0-a649-21ead7567d06,4,1647413714079,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
+25,"Only the kik emojis
+
+Meant the stickers navi sends",,wbte2eavi5fb5i4nyjtfwlvphcgg5ckiw7dzfkgzhjwecec3govq_a@talk.kik.com,0,400,1de30f1b-6aad-41e2-b020-386a505d40e8,50,1647413744321,1100256136749_g@groups.kik.com,,,,,1,,,0,0,,,,,,0,0,,0
