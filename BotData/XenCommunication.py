@@ -39,8 +39,5 @@ def send_command(data2send, comname):
     
 '''
 usage:
-add {user/group} + {optional details}
-set {passcode/black/white} {ip/jid/user} + {optional details}
-list {flagged/atlogs/black/white/shitlist} + {optional details}
-status {up/down/maintenance/lockdown} + {optional details}
+check commands.txt
 '''
