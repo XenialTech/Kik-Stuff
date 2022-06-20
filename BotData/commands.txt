@@ -6,4 +6,4 @@ add {user/group} + {optional details}
 set {passcode/black/white} {ip/jid/user} + {optional details}
 list {flagged/atlogs/black/white/shitlist} + {optional details}
 status {up/down/maintenance/lockdown} + {optional details}
-kik {jid/gjid/username} {xmpp/mssg} {raw/message} {optional autofill:true/false} {optional loopcount:0-1000} optional {loopint:1-100} + {optional details}
+kik {jid/gjid/username} {xmpp/mssg} {raw/message} {optional autofill:true/false} {optional loopcount:0-1000} {optional loopint:1-100} + {optional details}
